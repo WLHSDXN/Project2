@@ -6,7 +6,7 @@
 
 我们看到这个游戏中最主要的SnakeGameClass
 
-![SnakeGameClass](SnakeGame.assets/SnakeGameClass.png)
+![SnakeGameClass](SnakeGame.assets/SnakeGame.png)
 
 ## 成员变量
 
