@@ -1,12 +1,12 @@
 # AutomatedScript
 
-这是一个自动化脚本的程序，可以处理一些重复的事情。如果你有更好的意见，可以提交PR来丰富这个Project2
+这是一个自动化脚本的程序，可以处理一些重复的事情。如果你有更好的意见，欢迎提交PR来丰富这个Project2。
 
 ## MessageBombing
 
 这个程序参考了[用python编程实现消息轰炸](https://www.xiaohongshu.com/discovery/item/62387b1d000000002103e44e?share_from_user_hidden=true)和[python控制鼠标和键盘](https://www.cnblogs.com/to-red/p/9916668.html) 。
 
-下面摘录了一些教程：
+下面摘录了一些用法：
 
 ### PyMouse的用法
 
