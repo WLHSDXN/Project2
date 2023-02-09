@@ -15,3 +15,8 @@
 ## [SnakeGame](https://github.com/WLHSDXN/Project2/tree/main/SnakeGame)
 
 一个利用摄像头来玩的贪吃蛇游戏。
+
+## [AutomatedScript_QueryScore](https://github.com/WLHSDXN/Project2/tree/main/AutomatedScript_QueryScore)
+
+监测出成绩的脚本，部署在服务器上，有成绩第一时间发送邮件到自己邮箱。
+
