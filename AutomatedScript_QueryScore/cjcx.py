@@ -95,9 +95,9 @@ if __name__ == '__main__':
             emailop.send(From="系统管理员", To="qq", Subject="通知", Context=sendtext, to_addrs="xxxxx@qq.com")
             print(sendtext)
             print("----------------------系统管理员通知-------------------------->")
-        if long < 192:
-            pass
-        elif long < 264:
+        if i < 192:
+            passi
+        elif i < 264:
             long = 2700
         else:
             long = 1800
